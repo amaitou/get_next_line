@@ -9,6 +9,9 @@ This is the `Third` project of `42Cursus`. <br />
 
 **```Note: I haven't shared the PDF of this project, as well as, I haven't explained anything due to school privacy reasons!```**
 
+![Screenshot from 2022-11-15 19-42-23](https://user-images.githubusercontent.com/49293816/202000202-e289f7d2-f0b4-4bb1-992d-b981d64806f8.png)
+
+
 This project consists of two parts:
 - **Mandatory part** (Handle only one file descriptor)
 - **Bonus Part** (Handle multiple file descriptors at the same time)

@@ -1,5 +1,5 @@
 ---
-![8463234c60519d88](https://user-images.githubusercontent.com/49293816/200860013-a706f8d4-a795-43e1-a5ea-a8d5d4b204ab.jpg)
+![Quotation-Friedrich-Nietzsche-Sometimes-people-don-t-want-to-hear-the-truth-because-34-72-80](https://user-images.githubusercontent.com/49293816/210186788-8212fd20-5310-40f7-ba86-5f92141c88f6.jpeg)
 
 ---
 # Get Next Line
@@ -13,7 +13,7 @@ This project consists of two parts:
 - **Mandatory part** (Handle only one file descriptor)
 - **Bonus Part** (Handle multiple file descriptors at the same time)
 
-> Note: The **Bonus Part** is not that necessary to validate the project, but it gives some extra XPs and spreads **`The Blackhole`**.
+> Note: The **Bonus Part** is not that necessary to validate the project, but it gives some extra XPs and days for the **`The Blackhole`**.
 ---
 
 # Things you will learn in this project

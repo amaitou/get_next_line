@@ -26,10 +26,9 @@ This project consists of two parts:
 * Header files
 
 ---
-## Contact Me
+### **Contact Me**
 
 * [Twitter][_1]
-* [Instagram][_2]
 
 [_1]: https://twitter.com/amait0u
-[_2]: https://www.instagram.com/amait0u
+
